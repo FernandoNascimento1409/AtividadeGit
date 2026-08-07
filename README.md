@@ -34,12 +34,12 @@ Este repositório contém a documentação e os arquivos do projeto **SOP-GitHub
 
 1. **Clonar o repositório:**
    ```bash
-   git clone https://github.com/FernandoNascimento1409/SOP-GitHub.git
+   git clone https://github.com/FernandoNascimento1409/AtividadeGit.git
    ```
 
 2. **Acessar a pasta do projeto:**
    ```bash
-   cd SOP-GitHub
+   cd AtividadeGit
    ```
 
 3. **Abrir a aplicação:**
